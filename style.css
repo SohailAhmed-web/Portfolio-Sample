@@ -1,12 +1,32 @@
-.body-bg{
-    background-color: #DDD4D4;
+/* Basic styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
-.bg-h1{
-    background-color: blue;
-    color: white;
+
+/* Styling for the navigation menu */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Styling for sections */
+section {
+    margin: 20px;
+}
+
+/* Basic styling for the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
     padding: 10px;
-    text-align: center;
-}
-.img{
-    text-align: center;
 }
